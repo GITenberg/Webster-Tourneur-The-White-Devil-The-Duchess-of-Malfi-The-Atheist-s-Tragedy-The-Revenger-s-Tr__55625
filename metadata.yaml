@@ -1,5 +1,5 @@
 _repo: Webster-Tourneur-The-White-Devil-The-Duchess-of-Malfi-The-Atheist-s-Tragedy-The-Revenger-s-Tr__55625
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Symonds, John Addington
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1504'
     url: http://www.gutenberg.org/2009/agents/1504
     wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+covers:
+- cover_type: archival
+  image_path: 55625-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Webster, John
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '48424'
     url: http://www.gutenberg.org/2009/agents/48424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55625#Webster-Tourneur-The-White-Devil-The-Duchess-of-Malfi-The-Atheist-s-Tragedy-The-Revenger-s-Tr_
 gutenberg_issued: '2017-09-25'
 gutenberg_type: Text
 identifiers:
