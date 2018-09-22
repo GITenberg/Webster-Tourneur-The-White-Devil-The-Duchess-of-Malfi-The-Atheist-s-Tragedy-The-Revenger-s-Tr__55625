@@ -1,0 +1,38 @@
+_repo: Webster-Tourneur-The-White-Devil-The-Duchess-of-Malfi-The-Atheist-s-Tragedy-The-Revenger-s-Tr__55625
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+creator:
+  authors:
+  - agent_name: Webster, John
+    alias: Webster, J. (John)
+    gutenberg_agent_id: '857'
+    url: http://www.gutenberg.org/2009/agents/857
+    wikipedia: http://en.wikipedia.org/wiki/John_Webster
+  - agent_name: Tourneur, Cyril
+    gutenberg_agent_id: '48424'
+    url: http://www.gutenberg.org/2009/agents/48424
+description: ''
+gutenberg_issued: '2017-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Webster & Tourneur
+
+  The White Devil, The Duchess of Malfi, The Atheist''s
+
+  Tragedy, The Revenger''s Tragedy'
+url: http://www.gutenberg.org/ebooks/55625
